@@ -8,13 +8,19 @@
     "start": "next start"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^1.0.13",
+    "@chakra-ui/react": "^1.6.2",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
     "classnames": "^2.2.6",
     "date-fns": "^2.19.0",
+    "framer-motion": "^4.1.17",
     "gray-matter": "^4.0.2",
     "next": "10.0.8",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "remark": "^13.0.0",
-    "remark-html": "^13.0.1"
+    "remark-html": "^13.0.1",
+    "yarn": "^1.22.10"
   }
 }
