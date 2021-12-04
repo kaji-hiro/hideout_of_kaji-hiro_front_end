@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>kaji-hiro's hideout</title>
+        <title>kaji-hiro&apos;s hideout</title>
         <meta name="description" content="kaji-hiro's hideout" />
       </Head>
 
@@ -21,7 +21,7 @@ const Home: NextPage = () => {
             textAlign="center"
           >
             <Heading size="3xl" fontWeight="extrabold" letterSpacing="tight">
-              kaji-hiro's hideout
+              kaji-hiro&apos;s hideout
             </Heading>
             <Text mt="4" fontSize="lg">kaji-hiroの知見置き場</Text>
             <Text mt="4" fontSize="lg">
